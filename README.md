@@ -85,7 +85,7 @@ Output:
 ![image](https://user-images.githubusercontent.com/93427224/189700398-ebb22d5e-b63f-4860-bfd3-44ec07be68c9.png)
 
 
-## RTL:
+## RTL realization:
 ![chinnu](https://user-images.githubusercontent.com/93427224/189699998-9bfb1c1b-2c57-468f-9111-930d17a02d8b.png)
 
 
