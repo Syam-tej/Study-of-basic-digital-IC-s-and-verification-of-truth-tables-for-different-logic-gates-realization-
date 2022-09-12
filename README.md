@@ -81,7 +81,7 @@ RegisterNumber:212221240056
 Logic symbol & Truthtable
 RTL realization
 Output:
-## logic symbol:
+## Logic symbol & Truthtable:
 ![image](https://user-images.githubusercontent.com/93427224/189700398-ebb22d5e-b63f-4860-bfd3-44ec07be68c9.png)
 
 
