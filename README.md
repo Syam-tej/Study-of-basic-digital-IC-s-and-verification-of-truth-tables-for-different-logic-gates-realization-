@@ -82,7 +82,7 @@ Logic symbol & Truthtable
 RTL realization
 Output:
 ## Logic symbol & Truthtable:
-"C:\Users\SYAM TEJ\Desktop\WhatsApp Image 2022-09-12 at 9.58.29 PM.jpeg"
+![WhatsApp Image 2022-09-12 at 9 58 29 PM](https://user-images.githubusercontent.com/93427224/189707851-bed425f5-dc5f-4145-927c-9b3c7e6bee21.jpeg)
 
 ## RTL realization:
 ![chinnu](https://user-images.githubusercontent.com/93427224/189699998-9bfb1c1b-2c57-468f-9111-930d17a02d8b.png)
